@@ -29,10 +29,16 @@ An intelligent web application that leverages an LLM (OpenRouter API) to analyze
 ## 📸 Screenshots
 
 > Include screenshots of:
-- Home Page
+
 - Code Input Form
+- ![code refactor](https://github.com/user-attachments/assets/ac7c93e3-2840-4a31-a98d-b296772ff1aa)
+
 - Refactored Output
+![code refactor 2](https://github.com/user-attachments/assets/1f01543d-df26-4fda-a8ed-b2c87c9d774e)
+
 - Database Records
+- ![code refactor 3](https://github.com/user-attachments/assets/b85a5756-f385-4909-a68a-7e41800421de)
+
 
 ---
 
